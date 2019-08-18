@@ -13,7 +13,7 @@ name                     : &name "Joao Pedro Vieira"
 description              : &description "Economics Undergraduate Student (PUC-Rio) - Senior Year. Research Assistant at CPI-Rio. Interested, mostly, in Spatial Data and Applied Microeconometrics"
 url                      : https://jpgmv1998.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jpgmv1998/jpgmv1998.github.io"
+repository               : "jpgmv1998.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
