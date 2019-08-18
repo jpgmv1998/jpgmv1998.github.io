@@ -6,7 +6,7 @@ excerpt:
 date: 2018-11-01
 venue: 'Instituto de Estudos de Política Econômica da Casa das Garças'
 paperurl: 
-citation: '•	Arruda, Helena; Jardim, Guilherme e Vieira, João. 2018. Um panorama sobre a educação no Brasil. IEPE/CdG.'
+citation: 'Arruda, Helena; Jardim, Guilherme e Vieira, João. 2018. Um panorama sobre a educação no Brasil. IEPE/CdG.'
 ---
 
 [Download paper here](http://jpgmv1998.github.io/files/2018-UmPanoramaSobreEducacao.pdf)
