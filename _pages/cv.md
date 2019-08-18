@@ -11,25 +11,25 @@ redirect_from:
 
 Academic Formation
 ======
-* Bacharelado em Economia, Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio), 2016.1 - em andamento, CR:9,4/10
-* Intercâmbio acadêmico em Economia, University of California Berkeley, 2018.2, GPA:3,9/4
-* •	Ensino Fundamental e Médio: Colégio de São Bento, 2009-2015
+* Baccalaureate in Economics, Pontifícia Universidade Católica do Rio de Janeiro,  2016.1 – on progress, GPA: 9.4/10
+* Undergraduate Academic Exchange Program in Economics, University of California Berkeley, 2018.2, GPA: 3.9/4
+*	Elementary and High School: Colégio de São Bento, 2009-2015
 
 Scholarships
 ======
-* Bolsa Institucional, PUC-Rio, por desempenho destacado no vestibular, 2016 – em andamento
+* Institutional Scholarship, PUC-Rio, for exceptional performance on admission exam , 2016 – on progress
 
-* Bolsa Integral, Escola Brasileira de Economia e Finanças da Fundação Getúlio Vargas (FGV/EPGE), por desempenho destacado no vestibular, 2016
+* Integral Scholarship, Escola Brasileira de Economia e Finanças da Fundação Getúlio Vargas (FGV/EPGE), for exceptional performance on admission exam, 2016
 
-* Bolsa de Estudo, Colégio de São Bento, 2011 – 2015
+* Scholarship, Colégio de São Bento, 2011 – 2015
   
 Academic Activities
 ======
-* Assistente de Pesquisa, Climate Policy Initiative/Núcleo de Avaliação de Políticas Climáticas da PUC-Rio (NAPC/CPI); sob orientação da pesquisadora Clarissa Gandour, 2017.1 -2018.1 e 2019.1 – em andamento
+* Research Assistant, Climate Policy Initiative/Núcleo de Avaliação de Políticas Climáticas da PUC-Rio (NAPC/CPI); under the guidance of researcher Clarissa Gandour, 2017.1 -2018.1 e 2019.1 – on progress
 
-* Integrante do Programa de Educação Tutorial (PET), Departamento de Economia PUC-Rio; sob orientação do Prof. Rogério Werneck, 2017.1 – 2018.1 e 2019.1 - em andamento
+* Member of the Tutorial Education Program (PET), Economics Department (PUC-Rio); under the guidance of Professor Rogério Werneck, 2017.1 – 2018.1 e 2019.1 - on progress
 
-* Assistente de Pesquisa; sob orientação do Miguel d’Ávila, doutorando em Políticas Públicas e Sustentabilidade pelo Centro de Desenvolvimento Sustentável da Universidade de Brasília (CDS/UnB); 2019.2 
+* Research Assistant; under the guindace of Miguel d’Ávila, PhD candidate of Políticas Públicas e Sustentabilidade pelo Centro de Desenvolvimento Sustentável da Universidade de Brasília (CDS/UnB); 2019.2 
 
 * Membro dos Grupos de Estudos, Instituto de Estudos de Política Econômica da Casa das Garças (IEPE/CdG):
   * “Economia Ambiental” – 2019.2
@@ -43,8 +43,8 @@ Academic Activities
 
 * Participação Seminários:
   * Quinto Encontro REAP & SBE, 2019.2
-  * Departamento Economia PUC-Rio, 2019.1 – em andamento
-  * IEPE/CdG, 2019.1 – em andamento
+  * Departamento Economia PUC-Rio, 2019.1 – on progress
+  * IEPE/CdG, 2019.1 – on progress
 
 
 Publications
