@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Formação Acadêmica
+Academic Formation
 ======
 * Bacharelado em Economia, Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio), 2016.1 - em andamento, CR:9,4/10
 * Intercâmbio acadêmico em Economia, University of California Berkeley, 2018.2, GPA:3,9/4
 * •	Ensino Fundamental e Médio: Colégio de São Bento, 2009-2015
 
-Bolsas Acadêmicas
+Scholarships
 ======
 * Bolsa Institucional, PUC-Rio, por desempenho destacado no vestibular, 2016 – em andamento
 
@@ -23,7 +23,7 @@ Bolsas Acadêmicas
 
 * Bolsa de Estudo, Colégio de São Bento, 2011 – 2015
   
-Atividades Acadêmicas
+Academic Activities
 ======
 * Assistente de Pesquisa, Climate Policy Initiative/Núcleo de Avaliação de Políticas Climáticas da PUC-Rio (NAPC/CPI); sob orientação da pesquisadora Clarissa Gandour, 2017.1 -2018.1 e 2019.1 – em andamento
 
@@ -53,18 +53,26 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
+* Menção honrosa por desempenho excepcional no Colégio de São Bento, 2009 - 2015
+*	Menção honrosa XXXII Olímpiada Brasileira de Matemática, 2010
+*	Medalha de Bronze na Olímpiada de Matemática do Estado do Rio de Janeiro, 2010
+
+
+Programming Skills
+======
+
+*	R        (advanced)
+*	LaTeX (intermediate)
+*	Stata  (intermediate)
+
   
-Teaching
+Languages
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+* Advanced English: TOEFL, 2017.2, Score: 107/120
+* Elementary French: DELF - Level A2, 2012, Score: 90/100
+* Basic Spanish: DELE – Level A1, 2011, Score: 91/100
+* Mother Tongue Portuguese
