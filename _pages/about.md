@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me - /!\ site under construction /!\"
+title: "About Me - site under construction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
