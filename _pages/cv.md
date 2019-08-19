@@ -11,7 +11,7 @@ redirect_from:
 
 Academic Formation
 ======
-* Baccalaureate in Economics, Pontifícia Universidade Católica do Rio de Janeiro,  2016.1 – on progress, GPA: 9.4/10
+* Baccalaureate in Economics, Pontifícia Universidade Católica do Rio de Janeiro, 2016.1 – on progress, CR: 9.4/10
 * Undergraduate Academic Exchange Program in Economics, University of California Berkeley, 2018.2, GPA: 3.9/4
 *	Elementary and High School: Colégio de São Bento, 2009-2015
 
@@ -33,13 +33,13 @@ Academic Activities
 
 * Member of the Study Group, Instituto de Estudos de Política Econômica da Casa das Garças (IEPE/CdG):
   * “Environmental Economics” – 2019.2
-  * "Agenda Liberal Progressista: Mecanismos de Mercado para Redução da Desigualdade" – 2019.2
-  * “Brazil Challenges” – 2018.1
+  * "Liberal and Progressive Agenda: Market Mechanisms for Inequality Reduction" – 2019.2
+  * “Brazil Main Challenges” – 2018.1
 
-* Monitorias, PUC-Rio:
-  * Econometria I; Prof. Gustavo Gonzaga  - 2019.2
-  * Econometria I; Prof. Nathalie Gimenes – 2019.1
-  * Introdução à Economia I; Prof. Mariana Albuquerque – 2016.1
+* Teaching Assistant, PUC-Rio:
+  * Econometrics I; Prof. Gustavo Gonzaga  - 2019.2
+  * Econometrics I; Prof. Nathalie Gimenes – 2019.1
+  * Introduction to Microeconomics; Prof. Mariana Albuquerque – 2016.1
 
 * Seminars:
   * Fifth Meeting REAP & SBE, 2019.2
@@ -56,9 +56,9 @@ Publications
 Awards
 ======
 
-* Menção honrosa por desempenho excepcional no Colégio de São Bento, 2009 - 2015
-*	Menção honrosa XXXII Olímpiada Brasileira de Matemática, 2010
-*	Medalha de Bronze na Olímpiada de Matemática do Estado do Rio de Janeiro, 2010
+* Honorable mention for exceptional performance, Colégio de São Bento, 2009 - 2015
+*	Honorable mention on National Mathematics Competition, XXXII Olímpiada Brasileira de Matemática , 2010
+*	Bronze medal on Regional Mathematics Competition, Olímpiada de Matemática do Estado do Rio de Janeiro , 2010
 
 
 Programming Skills
