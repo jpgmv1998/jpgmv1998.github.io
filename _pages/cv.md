@@ -31,19 +31,19 @@ Academic Activities
 
 * Research Assistant; under the guindace of Miguel d’Ávila, PhD candidate of Políticas Públicas e Sustentabilidade pelo Centro de Desenvolvimento Sustentável da Universidade de Brasília (CDS/UnB); 2019.2 
 
-* Membro dos Grupos de Estudos, Instituto de Estudos de Política Econômica da Casa das Garças (IEPE/CdG):
-  * “Economia Ambiental” – 2019.2
+* Member of the Study Group, Instituto de Estudos de Política Econômica da Casa das Garças (IEPE/CdG):
+  * “Environmental Economics” – 2019.2
   * "Agenda Liberal Progressista: Mecanismos de Mercado para Redução da Desigualdade" – 2019.2
-  * “Desafios do Brasil” – 2018.1
+  * “Brazil Challenges” – 2018.1
 
 * Monitorias, PUC-Rio:
   * Econometria I; Prof. Gustavo Gonzaga  - 2019.2
   * Econometria I; Prof. Nathalie Gimenes – 2019.1
   * Introdução à Economia I; Prof. Mariana Albuquerque – 2016.1
 
-* Participação Seminários:
-  * Quinto Encontro REAP & SBE, 2019.2
-  * Departamento Economia PUC-Rio, 2019.1 – on progress
+* Seminars:
+  * Fifth Meeting REAP & SBE, 2019.2
+  * Economics Department PUC-Rio, 2019.1 – on progress
   * IEPE/CdG, 2019.1 – on progress
 
 
