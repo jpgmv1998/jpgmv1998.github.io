@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joao Pedro Vieira"
+title                    : "João Pedro Vieira"
 title_separator          : "-"
-name                     : &name "Joao Pedro Vieira"
+name                     : &name "João Pedro Vieira"
 description              : &description "Economics Undergraduate Student (PUC-Rio) - Senior Year. Research Assistant at CPI-Rio"
 url                      : https://jpgmv1998.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
