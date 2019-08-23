@@ -33,7 +33,7 @@ Academic Activities
 ======
 * Research Assistant, Climate Policy Initiative/Núcleo de Avaliação de Políticas Climáticas da PUC-Rio (CPI/PUC-Rio), under the guidance of researcher Clarissa Gandour, 2017.1 -2018.1 e 2019.1 – on progress
 
-* Member of the Tutorial Education Program (PET), Economics Department (PUC-Rio), under the guidance of Professor Rogério Werneck, 2017.1 – 2018.1 e 2019.1 - on progress
+* Member of the Tutorial Education Program (PET), Department of Economics (PUC-Rio), under the guidance of Professor Rogério Werneck, 2017.1 – 2018.1 e 2019.1 - on progress
 
 * Research Assistant, under the guindace of Miguel d’Ávila, PhD candidate of Políticas Públicas e Sustentabilidade pelo Centro de Desenvolvimento Sustentável da Universidade de Brasília (CDS/UnB), 2019.2 
 
@@ -49,7 +49,7 @@ Academic Activities
 
 * Seminars:
   * Fifth Meeting REAP & SBE, 2019.2
-  * Economics Department PUC-Rio, 2019.1 – on progress
+  * Department of Economics at PUC-Rio, 2019.1 – on progress
   * IEPE/CdG, 2019.1 – on progress
   
 Awards
