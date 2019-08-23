@@ -52,12 +52,6 @@ Academic Activities
   * Economics Department PUC-Rio, 2019.1 – on progress
   * IEPE/CdG, 2019.1 – on progress
   
-Projects
-======
-  <ul>{% for post in site.projects %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Awards
 ======
 
