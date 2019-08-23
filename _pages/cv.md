@@ -22,6 +22,12 @@ Scholarships
 * Integral Scholarship, Escola Brasileira de Economia e Finanças da Fundação Getúlio Vargas (EPGE/FGV), for exceptional performance on admission exam, 2016
 
 * Scholarship, Colégio de São Bento, 2011 – 2015
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Academic Activities
 ======
@@ -45,11 +51,10 @@ Academic Activities
   * Fifth Meeting REAP & SBE, 2019.2
   * Economics Department PUC-Rio, 2019.1 – on progress
   * IEPE/CdG, 2019.1 – on progress
-
-
-Publications
+  
+Projects
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.projects %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
