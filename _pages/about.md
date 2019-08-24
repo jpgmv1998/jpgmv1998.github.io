@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an undegraduate student (senior year) of the Department of Economics at the Pontifícia Universidade do Rio de Janeiro (PUC-Rio), and research assistant at the Climate Policy Initiative (CPI/PUC-Rio), under the guidance of the researcher Clarissa Gandour working on Impact Evaluation of Environmental Protection Public Policies.
+I am an undergraduate student (senior year) of the Department of Economics at the Pontifícia Universidade do Rio de Janeiro (PUC-Rio), and research assistant at the Climate Policy Initiative (CPI/PUC-Rio), under the guidance of the researcher Clarissa Gandour working on Impact Evaluation of Environmental Protection Public Policies.
 
-I am mostly interested in spatial data and applied microeconometrics and have experience using R, Stata, LaTeX and GitHub among others scientific tools.
+I am mostly interested in spatial data and applied microeconometrics and have experience using R, Stata, LaTeX and GitHub among other scientific tools.
 
-Currently, I am working on my senior thesis about a potential cross-biome leakage effect from a policy, implemented in the Amazon, to the Cerrado. Juliano Assunção is my advisor and Clarissa Gandour the co-advisor. I am also working on a minor project about Transparency and Reproduciblity in the Social Science Research.
+Currently, I am working on my senior thesis about a potential cross-biome leakage effect from a policy, implemented in the Amazon, to the Cerrado. Juliano Assunção is my advisor and Clarissa Gandour the co-advisor. I am also working on a minor project about Transparency and Reproducibility in the Social Science Research.
