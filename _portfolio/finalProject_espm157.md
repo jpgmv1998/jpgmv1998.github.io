@@ -1,6 +1,6 @@
 ---
 title: "Anti-Deforestation Policies and Changes in the Clearings Pattern: Brazilian Amazon Case"
-excerpt: "Final Project of ESPM 157 Course at UC Berkeley"
+excerpt: "Final Project of "Data Science in Global Change Ecology" (ESPM 157) Course at UC Berkeley"
 collection: projects
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Transparency and Reproducibility in Social Science Research"
-excerpt: "Analysis of the book and other references"
+excerpt: "Analysis of reproducibility issues and solutions in social science research"
 collection: projects
 ---
 
