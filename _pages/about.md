@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student (senior year) of the Department of Economics at the Pontifícia Universidade do Rio de Janeiro (PUC-Rio), and research assistant at the Climate Policy Initiative (CPI/PUC-Rio), under the guidance of the researcher Clarissa Gandour working on Impact Evaluation of Environmental Protection Public Policies.
+I am an undergraduate student (senior year) of the Department of Economics at the Pontifícia Universidade do Rio de Janeiro (PUC-Rio), and a research assistant at the Climate Policy Initiative (CPI/PUC-Rio), under the guidance of the researcher Clarissa Gandour working on impact evaluation of brazilian public policies related to environmental protection (mostly focused on curbing deforestation in the Amazon).
+
+I did an academic exchange program in Economics at the University of California Berkeley (Fall 2018). It was a great experience to improve my fluency in english, my econometrics knowledge from both theoretical and applied perspectives, my programming skills focused on reproducibility and my knowledge on how to do research in Economics. About the last topic, I had the opportunity to work on my own research project and receive feedback from several Professors and PhD candidates, which was one of the two projects chosen to be presented in the Barry Eichengreen's course (Topics in Economic Research - Econ191) and accepted to be published in the Spring 2019 Edition of the undergraduate journal *Berkeley Economic Review*.
 
 I am mostly interested in spatial data and applied microeconometrics and have experience using R, Stata, LaTeX and GitHub among other scientific tools.
 
-Currently, I am working on my senior thesis about a potential cross-biome leakage effect from a policy, implemented in the Amazon, to the Cerrado. Juliano Assunção is my advisor and Clarissa Gandour the co-advisor. I am also working on a minor project about Transparency and Reproducibility in the Social Science Research.
+Currently, I am working on my senior thesis about a potential cross-biome leakage effect from a policy, implemented in the Amazon, to the Cerrado. Juliano Assunção is my advisor and Clarissa Gandour my co-advisor. I am also working on a minor project about Transparency and Reproducibility in the Social Science Research, aiming to understand more about this topic in order to adopt better practices and present the issues and solutions to other students at my university.
