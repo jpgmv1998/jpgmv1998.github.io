@@ -9,4 +9,4 @@ paperurl:
 citation: 'Vieira, João. 2019. Curbing or Displacing Deforestation? The Amazon Blacklist Policy. Berkeley Economic Review.'
 ---
 
-[Download paper here](https://issuu.com/berkeleyeconreview/docs/berkeley_economic_review_volume_vii/30)
+[Paper here](https://issuu.com/berkeleyeconreview/docs/berkeley_economic_review_volume_vii/30)
