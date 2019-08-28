@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+ 
 Academic Formation
 ======
 * Baccalaureate in Economics, Pontifícia Universidade Católica do Rio de Janeiro, 2016.1 – on progress, CR: 9.4/10
