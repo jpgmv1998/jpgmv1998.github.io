@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-CurbingOrDisplacingDeforestationWP
 excerpt: 
 date: 2019-12-10
-venue: 
+venue: Honor Thesis, Department of Economics, PUC-Rio
 paperurl: 
 citation: 'Vieira, João. 2019. Curbing or Displacing Deforestation? The Amazon Blacklist Policy. Working Paper.'
 ---
