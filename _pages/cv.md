@@ -17,7 +17,10 @@ Academic Formation
 
 Scholarships
 ======
-* Institutional Scholarship, PUC-Rio, for exceptional performance on admission exam , 2016 – on progress
+
+* Merit Scholarshop, PUC-Rio, for excepcional academic performance, 2019.1
+
+* Institutional Scholarship, PUC-Rio, for exceptional performance on admission exam, 2016 – on progress
 
 * Integral Scholarship, Escola Brasileira de Economia e Finanças da Fundação Getúlio Vargas (EPGE/FGV), for exceptional performance on admission exam, 2016
 
@@ -48,13 +51,13 @@ Academic Activities
   * Introduction to Microeconomics, Prof. Mariana Albuquerque – 2017.1
 
 * Seminars:
-  * Fifth Meeting REAP & SBE, 2019.2
-  * Department of Economics at PUC-Rio, 2019.1 – on progress
-  * IEPE/CdG, 2019.1 – on progress
+  * 7th Workshop Economics of Low Carbon Markets (poster presentation), 2019.2
+  * 5th Meeting REAP & SBE, 2019.2
   
 Awards
 ======
 
+* 3rd place on the 4th Brazilian Econometrics Games, 2019
 * Honorable mention for exceptional performance, Colégio de São Bento, 2009 - 2015
 *	Honorable mention on National Mathematics Competition, XXXII Olímpiada Brasileira de Matemática , 2010
 *	Bronze medal on Regional Mathematics Competition, Olímpiada de Matemática do Estado do Rio de Janeiro , 2010
