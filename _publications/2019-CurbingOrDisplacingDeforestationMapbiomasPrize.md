@@ -1,7 +1,7 @@
 ---
 title: "Curbing or Displacing Deforestation? The Amazon Blacklist Policy (Working Paper)"
-collection: publications
-permalink: /publication/2019-CurbingOrDisplacingDeforestationWP
+collection: papers
+permalink: /papers/2019-CurbingOrDisplacingDeforestationWP
 excerpt: 
 date: 2019-12-10
 venue: Honor Thesis, Department of Economics, PUC-Rio

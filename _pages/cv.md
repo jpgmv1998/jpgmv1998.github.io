@@ -26,7 +26,7 @@ Scholarships
 
 * Scholarship, Colégio de São Bento, 2011 – 2015
 
-Publications
+Papers
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}

@@ -1,7 +1,7 @@
 ---
 title: "Um Panorama Sobre a Educação no Brasil"
-collection: publications
-permalink: /publication/2018-UmPanoramaSobreEducacao
+collection: papers
+permalink: /papers/2018-UmPanoramaSobreEducacao
 excerpt: 
 date: 2018-11-01
 venue: 'Instituto de Estudos de Política Econômica da Casa das Garças'

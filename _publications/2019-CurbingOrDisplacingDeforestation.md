@@ -1,7 +1,7 @@
 ---
 title: "Curbing or Displacing Deforestation? The Amazon Blacklist Policy"
-collection: publications
-permalink: /publication/2019-CurbingOrDisplacingDeforestation
+collection: papers
+permalink: /papers/2019-CurbingOrDisplacingDeforestation
 excerpt: 
 date: 2019-08-25
 venue: 'Berkeley Economic Review'
