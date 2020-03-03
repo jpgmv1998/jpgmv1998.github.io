@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student (senior year) of the Department of Economics at the Pontifícia Universidade do Rio de Janeiro (PUC-Rio), and a research assistant at the Climate Policy Initiative (CPI/PUC-Rio), under the guidance of the researcher Clarissa Gandour working on impact evaluation of Brazilian public policies related to environmental protection (mostly focused on curbing deforestation in the Amazon).
+I am an undergraduate student (senior year) of the Department of Economics at the Pontifícia Universidade do Rio de Janeiro (PUC-Rio). Currently, working as a research assistant at the Climate Policy Initiative (CPI/PUC-Rio), under the guidance of Clarissa Gandour. The research agenda is focused on impact evaluation of Brazilian public policies related to environmental protection (mostly focused on curbing deforestation in the Amazon).
