@@ -11,14 +11,14 @@ redirect_from:
  
 Academic Formation
 ======
-* Baccalaureate in Economics, Pontifícia Universidade Católica do Rio de Janeiro, 2016.1 – on progress, CR: 9.4/10
-* Undergraduate Academic Exchange Program in Economics, University of California Berkeley, 2018.2, GPA: 3.9/4
+* Baccalaureate in Economics, Pontifícia Universidade Católica do Rio de Janeiro, 2016.1 – on progress
+* Undergraduate Academic Exchange Program in Economics, University of California Berkeley, 2018.2
 *	Elementary and High School, Colégio de São Bento, 2009-2015
 
 Scholarships
 ======
 
-* Merit Scholarshop, PUC-Rio, for excepcional academic performance, 2019.1
+* Merit Scholarship, PUC-Rio, for excepcional academic performance, 2019.1
 
 * Institutional Scholarship, PUC-Rio, for exceptional performance on admission exam, 2016 – on progress
 
@@ -66,15 +66,15 @@ Awards
 Programming Skills
 ======
 
-*	R        (advanced)
-*	LaTeX (intermediate)
-*	Stata  (intermediate)
+*	R       
+*	LaTeX 
+*	Stata  
 
   
 Languages
 ======
 
-* Proficient English, TOEFL, 2017.2, Score: 107/120
-* Basic French: DELF - Level A2, 2012, Score: 90/100
-* Basic Spanish: DELE – Level A1, 2011, Score: 91/100
+* Proficient English, TOEFL, 2017.2
+* Basic French: DELF - Level A2, 2012
+* Basic Spanish: DELE – Level A1, 2011
 * Mother Tongue Portuguese
